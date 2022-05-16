@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @infraboy
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently learning Computer Science Engineering (B.Tech) from Amity University Kolkata
+- 💞️ I’m looking to collaborate on Flutter/AI projects.
+- 📫 You can reach me from my LinkedIn Profile: https://www.linkedin.com/in/ayush-ghosh-146519202/
